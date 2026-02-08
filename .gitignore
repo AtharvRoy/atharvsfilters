@@ -1,7 +1,4 @@
-node_modules
-dist
-functions
+.venv/
+__pycache__/
+*.pyc
 .env
-yarn-error.log
-src/site/_data/init.json
-src/site/_data/comments.json

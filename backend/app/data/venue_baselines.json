@@ -1,0 +1,18 @@
+{
+  "Wankhede": {
+    "run_rate": 8.9,
+    "boundary_size": 65
+  },
+  "Eden Gardens": {
+    "run_rate": 8.6,
+    "boundary_size": 68
+  },
+  "R Premadasa": {
+    "run_rate": 7.8,
+    "boundary_size": 70
+  },
+  "default": {
+    "run_rate": 8.2,
+    "boundary_size": 67
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "legspin_vs_rhb": {
+    "sr_suppression": 6.5,
+    "wicket_delta": 0.08
+  },
+  "leftarm_pace_vs_lhb": {
+    "sr_suppression": 4.2,
+    "wicket_delta": 0.05
+  },
+  "default": {
+    "sr_suppression": 0.0,
+    "wicket_delta": 0.0
+  }
+}
